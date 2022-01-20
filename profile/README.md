@@ -7,3 +7,8 @@ We currently make Discord bots which are made by different team members. But it 
 * [FluxTeam Discord Server](https://ysfchn.com/flux)
 * [KoiosBot](https://top.gg/bot/602590526398660634)
 
+### Supporters
+
+Thanks to [Tutanota](https://tutanota.com) for providing a secure, green and encrypted e-mail service for our team.
+
+<a href="https://tutanota.com" target="_blank"><img src="https://user-images.githubusercontent.com/54748183/150381905-b6bbba4a-a3d3-494d-af9b-5e6eb060d3ce.png" height="40"></a>
